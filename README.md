@@ -1,7 +1,8 @@
 # alx-project-0x14
 ## API ouverview
 ### Collection of information for movies, tv-shows, actors. Includes youtube trailer url, awards, full biography, and many other usefull informations. This api provides complete and updated data for over 9 million titles ( movies, series and episodes) and 11 million actors / crew and cast members. Support developers:
-# API Endpoints Documentation
+
+ ## Available Endpoints
 
 > **Note:**  
 > - Every endpoint returns an object with a `results` key.  
@@ -176,3 +177,12 @@
 ### **Titles Lists**
 - **Path:** `/title/utils/lists`  
 - **Description:** Returns array of lists (for `list` query parameter).
+
+## Request and Response Format
+
+## Authentication
+
+## Error Handling
+
+## Usage Limits and Best Practices
+
